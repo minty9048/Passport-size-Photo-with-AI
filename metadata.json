@@ -1,0 +1,5 @@
+{
+  "name": "Passport size Photo with AI",
+  "description": "Specialized tool for Indian Passport photos. Features automatic white background removal and 2x2 inch formatting using Gemini 2.5.",
+  "requestFramePermissions": []
+}
